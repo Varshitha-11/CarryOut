@@ -10,3 +10,10 @@ Notifications and Reminders: Alerts for scheduled pickups, delays, or store-spec
 Order Modifications: Edit or cancel orders before pickup.
 Payment Integration: Pay during scheduling or at pickup using in-app options.
 Pickup Check-in: Notify stores upon arrival for expedited service.
+
+
+
+RIBs Architecture
+
+Shared Resources: user authentication, payment processing, and notification services, are centralized for all modules.
+Shared UI Components: Components like maps, carousels, and order summaries are designed to work across both services, ensuring consistency.
