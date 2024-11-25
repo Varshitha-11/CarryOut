@@ -10,6 +10,7 @@ Notifications and Reminders: Alerts for scheduled pickups, delays, or store-spec
 Order Modifications: Edit or cancel orders before pickup.
 Payment Integration: Pay during scheduling or at pickup using in-app options.
 Pickup Check-in: Notify stores upon arrival for expedited service.
+Cab services: Providing cab, auto ,bike taxi servies with namma yatri app model.
 
 
 
